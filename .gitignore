@@ -1,0 +1,4 @@
+# Qt Creator meta file
+*.txt.user
+
+build-src-*
